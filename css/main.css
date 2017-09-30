@@ -14,7 +14,6 @@
     src: url(../fonts/fontawesome-webfont.woff2);
 }
 
-
 /*--------------------------------------------------*/
 /*			apply styles to all elements			*/
 /*--------------------------------------------------*/
@@ -239,6 +238,7 @@ footer {
 /*--------------------------------------------------*/
 
 @media screen and (min-width: 425px) {
+	
 	.container {
 		margin: 40px;
 	}
@@ -257,6 +257,7 @@ footer {
 /*--------------------------------------------------*/
 
 @media screen and (min-width: 620px) {
+	
 	.name {
 		font-size: 3.5em;
 	}
@@ -311,6 +312,7 @@ footer {
 /*--------------------------------------------------*/
 
 @media screen and (min-width: 1024px) {
+	
 	.name {
 		font-size: 4.5em;
 	}
